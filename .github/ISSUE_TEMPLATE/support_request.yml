@@ -1,0 +1,39 @@
+name: 提交转型请求
+description: 提交一个应用来使其变成Serverless应用
+title: "[改造请求]: "
+labels: ["enhancement"]
+body:
+  - type: input
+    id: app_name
+    attributes:
+      label: 名称
+      description: 应用的名称
+      placeholder: 例如：MyServerlessApp
+    validations:
+      required: true
+  - type: input
+    id: project_link
+    attributes:
+      label: 项目链接
+      description: 应用的项目地址或官方链接
+      placeholder: https://github.com/username/project
+    validations:
+      required: true
+  - type: textarea
+    id: app_description
+    attributes:
+      label: 应用说明
+      description: 关于该应用的简要说明
+      placeholder: 请简要描述该应用的功能和特点...
+    validations:
+      required: false
+  - type: dropdown
+    id: feasibility
+    attributes:
+      label: 可行程度
+      options:
+        - 完全可行
+        - 部分可行
+        - 不清楚
+    validations:
+      required: false
