@@ -11,4 +11,7 @@ s12e的转型原则是“能转则转，能改则改，能优则优”
 
 1. [EdgeOneKV存储抽象](https://github.com/phil616/s12e-edgeone-kv-interface) - 一个将KV存储抽象为HTTP的项目，s12e的原子能力之一
 2. [EdgeBitwarden](https://github.com/phil616/s12e-EdgeBitwarden) - 一个Bitwarden的Serverless版本，利用EdgeOne KV作为后端存储，支持Passkey
+3. [OAuthGateway](https://github.com/phil616/s12e-oauthgateway) - 一个利用边缘能力搭建的OAuth防护认证网关
+
 LICENSE CC4.0 & MIT
+
