@@ -16,3 +16,7 @@ s12e的转型原则是“能转则转，能改则改，能优则优”
 
 
 LICENSE CC4.0 & MIT
+
+## 项目海报
+
+![s12e海报](./img/s12e-wallpaper.png)
