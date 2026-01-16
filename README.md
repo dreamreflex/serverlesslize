@@ -14,7 +14,7 @@ s12e的转型原则是“能转则转，能改则改，能优则优”
 3. [OAuthGateway](https://github.com/phil616/s12e-oauthgateway) - 一个利用边缘能力搭建的OAuth防护认证网关
 4. [Mindmap脑图](https://github.com/phil616/s12e-mindmap) - 一个利用百度脑图项目进行边缘化处理的浏览器无服务器脑图工具
 5. [fossflow](https://github.com/phil616/s12e-fossflow) - 一个利用FossFlow项目构建的无服务器流程图工具
-
+6. [PDF工具](https://github.com/phil616/s12e-bentopdf) - 一个利用bentopdf开源项目构建的纯前端无服务器PDF处理工具
 LICENSE CC4.0 & MIT
 
 ## 项目海报
